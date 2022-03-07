@@ -7,11 +7,13 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="13-prog" />
+        <module name="ATM" />
         <module name="PetClinic" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="13-prog" target="16" />
+      <module name="ATM" target="1.5" />
       <module name="PetClinic" target="1.5" />
     </bytecodeTargetLevel>
   </component>
