@@ -9,10 +9,12 @@
         <module name="13-prog" />
         <module name="ATM" />
         <module name="PetClinic" />
+        <module name="24_regexp" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="13-prog" target="16" />
+      <module name="24_regexp" target="6" />
       <module name="ATM" target="1.5" />
       <module name="PetClinic" target="1.5" />
     </bytecodeTargetLevel>
