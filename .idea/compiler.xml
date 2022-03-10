@@ -6,17 +6,22 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
+        <module name="regexps" />
+        <module name="10_03_2022_practice_1" />
         <module name="13-prog" />
         <module name="ATM" />
         <module name="PetClinic" />
-        <module name="24_regexp" />
+        <module name="msisdn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="10_03_2022_practice_1" target="17" />
       <module name="13-prog" target="16" />
       <module name="24_regexp" target="6" />
       <module name="ATM" target="1.5" />
+      <module name="msisdn" target="17" />
       <module name="PetClinic" target="1.5" />
+      <module name="regexps" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>

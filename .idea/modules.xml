@@ -2,10 +2,12 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
+      <module fileurl="file://$PROJECT_DIR$/10_03_2022_practice_1/10_03_2022_practice_1.iml" filepath="$PROJECT_DIR$/10_03_2022_practice_1/10_03_2022_practice_1.iml" />
       <module fileurl="file://$PROJECT_DIR$/13-prog/13-prog.iml" filepath="$PROJECT_DIR$/13-prog/13-prog.iml" />
-      <module fileurl="file://$PROJECT_DIR$/24_regexp/24_regexp.iml" filepath="$PROJECT_DIR$/24_regexp/24_regexp.iml" />
       <module fileurl="file://$PROJECT_DIR$/ATM/ATM.iml" filepath="$PROJECT_DIR$/ATM/ATM.iml" />
       <module fileurl="file://$PROJECT_DIR$/PetClinic/PetClinic.iml" filepath="$PROJECT_DIR$/PetClinic/PetClinic.iml" />
+      <module fileurl="file://$PROJECT_DIR$/msisdn/msisdn.iml" filepath="$PROJECT_DIR$/msisdn/msisdn.iml" />
+      <module fileurl="file://$PROJECT_DIR$/regexps/regexps.iml" filepath="$PROJECT_DIR$/regexps/regexps.iml" />
       <module fileurl="file://$PROJECT_DIR$/.idea/y_krasnov.iml" filepath="$PROJECT_DIR$/.idea/y_krasnov.iml" />
     </modules>
   </component>
