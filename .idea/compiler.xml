@@ -9,18 +9,24 @@
         <module name="10_03_2022_practice_2" />
         <module name="regexps" />
         <module name="10_03_2022_practice_1" />
+        <module name="15_03_2022_practice_1" />
         <module name="13-prog" />
+        <module name="15_03_2022_practice_2" />
         <module name="PetClinic" />
+        <module name="14_03_2022_practice_1" />
         <module name="11_03_2022_practice_1" />
-        <module name="ATM" />
         <module name="msisdn" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
+      <module name="03_03_2022_practice_2_ATM" target="1.5" />
       <module name="10_03_2022_practice_1" target="17" />
       <module name="10_03_2022_practice_2" target="17" />
       <module name="11_03_2022_practice_1" target="17" />
       <module name="13-prog" target="16" />
+      <module name="14_03_2022_practice_1" target="17" />
+      <module name="15_03_2022_practice_1" target="17" />
+      <module name="15_03_2022_practice_2" target="17" />
       <module name="24_regexp" target="6" />
       <module name="ATM" target="1.5" />
       <module name="msisdn" target="17" />
