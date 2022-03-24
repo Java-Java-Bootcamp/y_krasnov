@@ -7,7 +7,6 @@
         <option value="$PROJECT_DIR$/13-prog/pom.xml" />
         <option value="$PROJECT_DIR$/ATM/pom.xml" />
         <option value="$PROJECT_DIR$/regexps/pom.xml" />
-        <option value="$PROJECT_DIR$/msisdn/pom.xml" />
         <option value="$PROJECT_DIR$/10_03_2022_practice_1/pom.xml" />
         <option value="$PROJECT_DIR$/10_03_2022_practice_2/pom.xml" />
         <option value="$PROJECT_DIR$/11_03_2022_practice_1/pom.xml" />
@@ -15,6 +14,7 @@
         <option value="$PROJECT_DIR$/15_03_2022_practice_1/pom.xml" />
         <option value="$PROJECT_DIR$/15_03_2022_practice_2/pom.xml" />
         <option value="$PROJECT_DIR$/elections/pom.xml" />
+        <option value="$PROJECT_DIR$/TutorialMVC/pom.xml" />
       </list>
     </option>
   </component>

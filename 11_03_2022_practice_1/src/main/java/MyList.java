@@ -13,12 +13,13 @@ public class MyList<E> implements List<E>{
 
     @Override
     public int size() {
+        size = data.length;
         return size;
     }
 
     @Override
     public boolean isEmpty() {
-        return false;
+        return size == 0;
     }
 
     @Override

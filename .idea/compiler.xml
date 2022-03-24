@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="10_03_2022_practice_2" />
+        <module name="TutorialMVC" />
         <module name="regexps" />
         <module name="10_03_2022_practice_1" />
         <module name="15_03_2022_practice_1" />
@@ -15,7 +16,7 @@
         <module name="PetClinic" />
         <module name="14_03_2022_practice_1" />
         <module name="11_03_2022_practice_1" />
-        <module name="msisdn" />
+        <module name="elections" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -29,9 +30,14 @@
       <module name="15_03_2022_practice_2" target="17" />
       <module name="24_regexp" target="6" />
       <module name="ATM" target="1.5" />
+      <module name="collections" target="17" />
+      <module name="elections" target="17" />
+      <module name="hashmap" target="17" />
       <module name="msisdn" target="17" />
-      <module name="PetClinic" target="1.5" />
+      <module name="newmod" target="17" />
+      <module name="PetClinic" target="17" />
       <module name="regexps" target="17" />
+      <module name="TutorialMVC" target="17" />
     </bytecodeTargetLevel>
   </component>
 </project>
