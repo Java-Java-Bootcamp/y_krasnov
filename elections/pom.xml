@@ -8,13 +8,13 @@
         <version>2.6.4</version>
         <relativePath/> <!-- lookup parent from repository -->
     </parent>
-    <groupId>ru.otus</groupId>
+    <groupId>ru.yura</groupId>
     <artifactId>spring-demo</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>spring-demo</name>
-    <description>Demo project for Spring Boot</description>
+    <name>spring-elections</name>
+    <description>Elections project for Spring Boot</description>
     <properties>
-        <java.version>16</java.version>
+        <java.version>17</java.version>
     </properties>
 
     <dependencies>

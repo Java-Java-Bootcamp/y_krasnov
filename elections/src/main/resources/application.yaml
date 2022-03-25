@@ -1,0 +1,14 @@
+spring:
+  datasource:
+    hikari:
+      schema: elections
+      maximumPoolSize: 5
+    url: jdbc:postgresql://localhost:5432/postgres
+    username: postgres
+    password: polka
+
+  jpa:
+    generate-ddl: true
+    show-sql: true
+    hibernate:
+      dll-auto: update
