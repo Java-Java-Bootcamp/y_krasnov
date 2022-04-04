@@ -28,7 +28,6 @@ public class Election {
             mappedBy = "election",
             cascade = CascadeType.ALL
     )
-    @JsonManagedReference
     @Fetch(FetchMode.JOIN)
     private List<Candidate> candidates;
 

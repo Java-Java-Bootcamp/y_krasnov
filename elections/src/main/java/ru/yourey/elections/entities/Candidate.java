@@ -36,7 +36,6 @@ public class Candidate {
             insertable = false,
             updatable = false
     )
-    @JsonBackReference
     private Election election;
 
 }
