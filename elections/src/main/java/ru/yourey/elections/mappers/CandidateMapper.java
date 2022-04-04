@@ -4,10 +4,14 @@ import org.mapstruct.Mapper;
 import ru.yourey.elections.dto.CandidateDTO;
 import ru.yourey.elections.entities.Candidate;
 
+import java.util.List;
+
 @Mapper(
         componentModel = "spring"
 )
 public interface CandidateMapper {
 
-    CandidateDTO candidateToCandidateDto(Candidate candidate);
+    CandidateDTO candidateToCandidateDTO(Candidate candidate);
+
+    List<CandidateDTO> candidateListToCandidateDTOList (List<Candidate> candidate);
 }

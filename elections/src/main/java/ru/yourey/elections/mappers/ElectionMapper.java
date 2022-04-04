@@ -11,5 +11,7 @@ import java.util.List;
 )
 public interface ElectionMapper {
 
-    List<ElectionDTO> electionToElectionDto(List<Election> elections);
+    List<ElectionDTO> electionsListToElectionDTOList(List<Election> elections);
+
+    ElectionDTO electionToElectionDTO(Election elections);
 }

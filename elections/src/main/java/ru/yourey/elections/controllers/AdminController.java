@@ -30,7 +30,7 @@ public class AdminController {
     @GetMapping("/elections")
     public ResponseEntity<List<ElectionDTO>> getElections() {
         return new ResponseEntity<>(
-                electionMapper.electionToElectionDto(
+                electionMapper.electionsListToElectionDTOList(
                         electionRepository.findAll()
                 ),
                 HttpStatus.OK

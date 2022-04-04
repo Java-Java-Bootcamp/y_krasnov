@@ -18,7 +18,7 @@ public class ElectionDTO {
     @JsonProperty("election_name")
     private String electionName;
 
-    @JsonProperty("candidate")
-    private List<Candidate> candidates;
+    @JsonProperty("candidates")
+    private List<CandidateDTO> candidates;
 
 }
